@@ -20,8 +20,8 @@ Soporta PDF, Word, Excel, PowerPoint e imágenes. Los archivos en formato antigu
 ### 1. Clonar o descargar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
-cd tu-repo
+git clone https://github.com/tu-usuario/Markitdown_converter.git
+cd Markitdown_converter
 ```
 
 O simplemente descargá `convertidor.py` suelto.
